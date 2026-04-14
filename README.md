@@ -3,7 +3,7 @@
 
 # Hi, I'm Binoy Babu K 👋
 
-### Design Verification Engineer | SystemVerilog · UVM · AMBA Protocols
+### .NET Backend Developer | C# · ASP.NET Core · REST APIs · SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoybabuk/)
 [![GitHub](https://img.shields.io/badge/GitHub-BinoyBabu10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinoyBabu10)
@@ -14,67 +14,68 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently at **Cognizant**, actively transitioning into **Design Verification (DV)**
-- 🔬 Passionate about **RTL Design** and **Functional Verification** of digital ICs
-- 🛠️ Hands-on experience with **SystemVerilog**, **UVM**, and **AMBA protocol verification**
-- 🎯 Seeking **DV / Verification Engineer** roles in the semiconductor industry
-- 📚 Continuously learning — currently exploring **AXI protocol** and **UVM advanced topics**
+- 🏢 Currently at **Cognizant**, actively transitioning into **.NET Backend Development**
+- 🔬 Passionate about building **scalable REST APIs** and **clean architecture** with ASP.NET Core
+- 🛠️ Hands-on experience with **C#**, **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL**
+- 🎯 Seeking **.NET Developer / Backend Engineer** roles in product or service companies
+- 📚 Continuously learning — currently exploring **microservices**, **Azure**, and **CQRS patterns**
 - 📍 Based in **India**
 
 ---
 
-## 🚀 Featured DV / RTL Projects
+## 🚀 Featured .NET Projects
 
-### 🔷 Protocol Verification
+### 🔷 Backend APIs
 
-| Project | Description | Concepts |
-|---------|-------------|----------|
-| [**APB Slave Verification**](https://github.com/BinoyBabu10/APB) | AMBA APB Slave with full layered class-based testbench, scoreboard & `pslverr` error detection | APB Protocol · Scoreboard · `randc` · OOP TB |
-| [**SPI Master + Verification**](https://github.com/BinoyBabu10/SPI_Master) | 12-bit SPI Master with custom Generator → Driver → Monitor → Scoreboard environment | SPI · Mailbox · Events · `fork-join_any` |
-| [**I2C Master Controller**](https://github.com/BinoyBabu10/I2C-SystemVerilog) | 9-state FSM-based I2C Master supporting read & write with ACK/NACK handling | I2C · FSM · Tri-state SDA · SystemVerilog |
-| [**UVM SPI Memory**](https://github.com/BinoyBabu10/UVM_SPI) | SPI Memory Controller verified using a UVM-based testbench | UVM · SPI · Read/Write Ops · SV Interface |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**E-Commerce Backend**](https://github.com/BinoyBabu10/E-Commerce-Backend) | Full-featured e-commerce REST API with JWT auth, product/cart/order management, Swagger docs, deployed on Render | ASP.NET Core · EF Core · JWT · Swagger |
+| [**Food Delivery System Backend**](https://github.com/BinoyBabu10/Food-Delivery-System-Backend) | REST API backend for a food delivery platform — handles restaurants, menus, orders, and user management | ASP.NET Core · C# · EF Core · SQL |
+| [**Food Delivery System Frontend**](https://github.com/BinoyBabu10/Food-Delivery-System-Frontend) | Responsive food delivery web app frontend consuming the backend REST API | React · Vite · Tailwind CSS |
 
-### 🔷 RTL Design & Verification
-
-| Project | Description | Concepts |
-|---------|-------------|----------|
-| [**FIFO Verification**](https://github.com/BinoyBabu10/FIFI-systemVerilog) | 8-bit 16-deep synchronous FIFO with constrained-random testbench | FIFO · `rand` Constraints · OOP TB · Monitor |
-| [**CMOS Logic – Cadence Virtuoso**](https://github.com/BinoyBabu10/Virtuoso) | Transistor-level CMOS gates (AND, OR, NAND, NOR, XOR, XNOR) + Half Adder | CMOS · Spectre Simulation · Cadence Virtuoso |
+> 🌐 **Live API (E-Commerce):** [e-commerce-backend-zrq6.onrender.com/swagger/index.html](https://e-commerce-backend-zrq6.onrender.com/swagger/index.html)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Verification & RTL
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005C84?style=flat-square&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-FF6600?style=flat-square&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-007ACC?style=flat-square&logoColor=white)
+### .NET & Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logoColor=white)
 
-### Protocols
-![AMBA APB](https://img.shields.io/badge/AMBA_APB-0052CC?style=flat-square&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-6DB33F?style=flat-square&logoColor=white)
-![I2C](https://img.shields.io/badge/I2C-FF4500?style=flat-square&logoColor=white)
+### Auth & Docs
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### Tools & EDA
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-EE0000?style=flat-square&logoColor=white)
-![EDA Playground](https://img.shields.io/badge/EDA_Playground-4B0082?style=flat-square&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-0078D7?style=flat-square&logoColor=white)
-![GTKWave](https://img.shields.io/badge/GTKWave-4CAF50?style=flat-square&logoColor=white)
+### Database
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Programming
+### Frontend (Familiar)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Tools & DevOps
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+### Also Know
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 🧠 DV Concepts I've Worked With
+## 🧠 .NET Concepts I've Worked With
 
 ```
-✅ Constrained-Random Verification     ✅ Functional Coverage
-✅ Layered Testbench Architecture      ✅ Self-Checking Scoreboard
-✅ SystemVerilog OOP (classes,         ✅ AMBA Protocol (APB)
-   mailboxes, virtual interfaces)
-✅ UVM Methodology                     ✅ FSM-based RTL Design
-✅ VCD Waveform Debugging              ✅ CMOS Transistor-level Design
+✅ ASP.NET Core Web API              ✅ JWT Authentication & Authorization
+✅ Entity Framework Core (Code First) ✅ Role-based Access Control
+✅ RESTful API Design                ✅ Swagger / OpenAPI Documentation
+✅ Dependency Injection              ✅ Repository & Service Layer Pattern
+✅ LINQ & EF Migrations              ✅ API Deployment on Render
 ```
 
 ---
@@ -91,23 +92,23 @@
 
 ## 🎯 What I'm Looking For
 
-I'm actively applying for **Design Verification / Verification Engineer** roles where I can:
+I'm actively applying for **.NET Developer / Backend Engineer** roles where I can:
 
-- Write and maintain **SystemVerilog / UVM testbenches**
-- Verify **SoC subsystems and IP blocks**
-- Work on **AMBA protocol verification** (APB, AHB, AXI)
-- Contribute to **coverage-driven verification** methodologies
+- Build and maintain **ASP.NET Core REST APIs**
+- Work with **Entity Framework Core** and relational databases
+- Apply **clean architecture** and **SOLID principles**
+- Collaborate on **full-stack or backend-focused** product teams
 
 ---
 
 ## 📫 Let's Connect
 
-If you're a **recruiter or hiring manager** looking for a motivated DV engineer with hands-on experience in SystemVerilog, UVM, and AMBA protocols — I'd love to connect!
+If you're a **recruiter or hiring manager** looking for a motivated .NET developer with hands-on experience in ASP.NET Core, EF Core, JWT, and REST API development — I'd love to connect!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoybabuk/)
 
 ---
 
 <div align="center">
-  <i>"Verification is not about finding bugs — it's about building confidence in correctness."</i>
+  <i>"Good code is not just about making things work — it's about making them work elegantly."</i>
 </div>
