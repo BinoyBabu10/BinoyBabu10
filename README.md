@@ -1,114 +1,120 @@
-<!-- update -->
-<div align="center">
+<h1 align="center">Hey, I'm Binoy Babu K 👋</h1>
 
-# Hi, I'm Binoy Babu K 👋
+<p align="center">
+  <b>Backend Developer · ASP.NET Core · Python & FastAPI · AI Integration · RESTful APIs · SQL Server</b>
+</p>
 
-### .NET Backend Developer | C# · ASP.NET Core · REST APIs · SQL
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoybabuk/)
-[![GitHub](https://img.shields.io/badge/GitHub-BinoyBabu10-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinoyBabu10)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🏢 Currently at **Cognizant**, actively transitioning into **.NET Backend Development**
-- 🔬 Passionate about building **scalable REST APIs** and **clean architecture** with ASP.NET Core
-- 🛠️ Hands-on experience with **C#**, **ASP.NET Core Web API**, **Entity Framework Core**, and **SQL**
-- 🎯 Seeking **.NET Developer / Backend Engineer** roles in product or service companies
-- 📚 Continuously learning — currently exploring **microservices**, **Azure**, and **CQRS patterns**
-- 📍 Based in **India**
+<p align="center">
+  <a href="mailto:babukbinoy@gmail.com">📧 babukbinoy@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/binoybabuk">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/BinoyBabu10">🐙 GitHub</a>
+</p>
 
 ---
 
-## 🚀 Featured .NET Projects
+## 🧑‍💻 About Me
 
-### 🔷 Backend APIs
+Backend Developer with hands-on experience designing and deploying production-ready RESTful APIs using **ASP.NET Core**, **C#**, and **Entity Framework Core**. Also proficient in **Python**, **FastAPI**, and **AI/LLM integration** — actively building AI-powered SaaS systems.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**E-Commerce Backend**](https://github.com/BinoyBabu10/E-Commerce-Backend) | Full-featured e-commerce REST API with JWT auth, product/cart/order management, Swagger docs, deployed on Render | ASP.NET Core · EF Core · JWT · Swagger |
-| [**Food Delivery System Backend**](https://github.com/BinoyBabu10/Food-Delivery-System-Backend) | REST API backend for a food delivery platform — handles restaurants, menus, orders, and user management | ASP.NET Core · C# · EF Core · SQL |
-| [**Food Delivery System Frontend**](https://github.com/BinoyBabu10/Food-Delivery-System-Frontend) | Responsive food delivery web app frontend consuming the backend REST API | React · Vite · Tailwind CSS |
+Currently contributing as **Program Analyst at Cognizant**, delivering backend features for enterprise applications.
 
-> 🌐 **Live API (E-Commerce):** [e-commerce-backend-zrq6.onrender.com/swagger/index.html](https://e-commerce-backend-zrq6.onrender.com/swagger/index.html)
+- 🔧 Proficient in JWT authentication, Clean Architecture, Redis caching, and SQL Server optimization
+- 🤖 Actively building AI-powered backends with OpenAI API integration and RAG
+- 🚀 Passionate about scalable system design and clean, maintainable code
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### .NET & Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logoColor=white)
-
-### Auth & Docs
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend (Familiar)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Tools & DevOps
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-### Also Know
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+| Category | Technologies |
+|---|---|
+| **Languages** | C#, Python |
+| **Frameworks** | ASP.NET Core Web API, FastAPI, React |
+| **AI / ML** | OpenAI API, LLM Integration, Prompt Engineering, RAG (basics) |
+| **Databases** | SQL Server, PostgreSQL, SQLAlchemy ORM, Alembic |
+| **Architecture** | Clean Architecture, Repository & Service Pattern, Dependency Injection |
+| **Security** | JWT Authentication, Role-Based Authorization (RBAC) |
+| **Caching** | Redis (response caching, session caching, rate limiting) |
+| **DevOps & Cloud** | GitHub Actions CI/CD, Docker, Azure App Service, Render, Swagger/OpenAPI |
 
 ---
 
-## 🧠 .NET Concepts I've Worked With
+## 🚀 Featured Projects
 
-```
-✅ ASP.NET Core Web API              ✅ JWT Authentication & Authorization
-✅ Entity Framework Core (Code First) ✅ Role-based Access Control
-✅ RESTful API Design                ✅ Swagger / OpenAPI Documentation
-✅ Dependency Injection              ✅ Repository & Service Layer Pattern
-✅ LINQ & EF Migrations              ✅ API Deployment on Render
-```
+### 🤖 [AI System Design & Interview Intelligence Platform](https://github.com/BinoyBabu10/AI-System-Design)
+> **Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · OpenAI API · Redis · JWT · Docker
 
----
+A production-grade AI-powered SaaS backend that generates structured system design answers — covering architecture, tradeoffs, scalability, DB design, and API design — in real time using the OpenAI API.
 
-## 📂 Other Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Parking Management System](https://github.com/BinoyBabu10/Parking-Management-System-using-Arduino-and-Python) | GUI-based parking system using Arduino + Python | Python · Arduino |
-| [Time Management App](https://github.com/BinoyBabu10/timemanagment) | Tkinter GUI for managing work and break intervals | Python · Tkinter |
-| [Connect 4 Game](https://github.com/BinoyBabu10/Connect_4_Game) | Terminal-based Connect 4 game | Python |
+- Implemented JWT-based auth with access + refresh tokens and role-based access control (User/Admin)
+- Engineered a Redis caching layer using question hash as cache key, eliminating redundant LLM calls
+- Designed a normalized PostgreSQL schema (Users, Interviews, Sessions, Feedback, Refresh Tokens)
+- Built an analytics engine for tracking user performance and surfacing learning insights
+- Configured rate limiting (100 req/min) with modular FastAPI structure (core, models, schemas, api, services, repository)
 
 ---
 
-## 🎯 What I'm Looking For
+### ✅ Employee Task Management System
+> **Stack:** Python · FastAPI · PostgreSQL · JWT · Swagger
 
-I'm actively applying for **.NET Developer / Backend Engineer** roles where I can:
+A full-featured task management backend enabling CRUD operations for employees, tasks, and assignments with role-based access for Admin and Employee roles.
 
-- Build and maintain **ASP.NET Core REST APIs**
-- Work with **Entity Framework Core** and relational databases
-- Apply **clean architecture** and **SOLID principles**
-- Collaborate on **full-stack or backend-focused** product teams
-
----
-
-## 📫 Let's Connect
-
-If you're a **recruiter or hiring manager** looking for a motivated .NET developer with hands-on experience in ASP.NET Core, EF Core, JWT, and REST API development — I'd love to connect!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binoybabuk/)
+- Implemented JWT authentication and RBAC, securing access across all endpoints
+- Designed a clean, modular codebase structure following production-grade Python backend conventions
+- Documented all API endpoints via Swagger/OpenAPI for seamless frontend integration
 
 ---
 
-<div align="center">
-  <i>"Good code is not just about making things work — it's about making them work elegantly."</i>
-</div>
+### 🍔 Food Delivery System
+> **Stack:** ASP.NET Core Web API · Entity Framework Core · React · JWT · Swagger
+
+A production-ready food delivery backend with a fully connected React frontend.
+
+- Engineered 20+ RESTful API endpoints across 11 normalized SQL Server tables (menus, cart, orders, users)
+- Applied Clean Architecture (Controller → Service → Repository) with full DTO abstraction, reducing code coupling by 100%
+- Cut average API payload size by ~60% by introducing server-side pagination
+- Documented all 20 endpoints in Swagger/OpenAPI with end-to-end React frontend coverage
+
+---
+
+### 🛒 E-Commerce Backend System
+> **Stack:** ASP.NET Core Web API · EF Core · GitHub Actions · Render · JWT
+
+A live, deployed e-commerce backend handling product catalog, shopping cart, and order processing.
+
+- 8 RESTful API endpoints across 6 database tables with JWT auth and RBAC for Admin, Seller, and Customer roles
+- Improved average endpoint response time by ~35% through EF Core query optimization and server-side pagination
+- Eliminated 100% of unhandled runtime errors via centralized global exception handling middleware
+- Reduced manual deployment effort by ~80% with a full CI/CD pipeline using GitHub Actions → Render
+
+---
+
+## 💼 Work Experience
+
+**Program Analyst — Cognizant** *(March 2025 – Present)*
+- Engineered backend modules using ASP.NET Core and SQL Server, improving data processing throughput by ~25%
+- Optimized 10+ SQL queries and EF Core operations, reducing average query execution time by ~30%
+- Delivered 5+ RESTful API endpoints per sprint following Clean Architecture principles
+- Resolved 15+ production bugs, reducing system downtime by ~20%
+
+---
+
+## 🎓 Education
+
+**B.E. in Electronics and Communication Engineering**  
+KLS Gogte Institute of Technology · CGPA: 8.81 / 10.0 · 2021 – 2025
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinoyBabu10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinoyBabu10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to backend, AI/ML engineering, and full-stack opportunities. Let's connect!</i>
+</p>
